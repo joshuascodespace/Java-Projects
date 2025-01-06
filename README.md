@@ -10,3 +10,9 @@ Takes the user through a fully functional game of Wordle via the terminal. A use
 
 ### Dictionary-Accessor:
 The user can input words and definitions into this program by file i/o or manually through terminal interaction. The user can then access the words and corresponding definitions input into the program in various ways.
+
+### Make-Maker
+The user inputs dimensions of a maze into the terminal, and a maze of those dimension is printed in response. The program can also solve the given maze per user request.
+
+### Data-Prediciton
+The program recieves a csv with recordings of windspeed of an area and performs ordinary least squares regression to create a best fit line that can be used to predict wind probabilities based on windspeed. The program then outputs data visualization based on data read in.
